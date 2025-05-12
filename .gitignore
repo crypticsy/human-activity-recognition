@@ -1,1 +1,5 @@
 .DS_Store
+
+# ignore the dataset for storage reasons
+*.csv
+*.txt
